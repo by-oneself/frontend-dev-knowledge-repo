@@ -1,2 +1,2 @@
-# webdev-knowledge-repo
-webdev-knowledge-repo
+# frontend-dev-knowledge-repo
+frontend-dev-knowledge-repo
